@@ -1,6 +1,6 @@
 
 
-[![LICENSE](https://img.shields.io/badge/license-obs-blue.svg?style=flat-square)](https://github.com/ofcold/mst/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-ttl-blue.svg?style=flat-square)](https://github.com/ttl-license/mst/blob/master/LICENSE)
 
 
-> OBSS license (Ofcold Business Software Service)
+> TTL license (Toocold Technology Lab)
